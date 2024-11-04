@@ -1,1 +1,1 @@
-# Backruptcy_Prediction_Project
+# Bankruptcy_Prediction_Project
